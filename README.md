@@ -42,6 +42,8 @@ U-Net includes a total of 23 convolutional layers.
 
 By completing this project, you will acquire valuable experience in image segmentation using U-Net. You'll understand the crucial role of semantic image segmentation in self-driving cars and learn to apply sparse categorical cross-entropy for pixel-wise prediction. Dive into the world of precise image understanding and enjoy building your own U-Net model. If you have questions or need assistance, feel free to reach out to the project contributors or the community. Happy coding!
 
-![Image Segmentation](images/image_segmentation.png)
+## Credits 
+
+Thanks to DeepLearning.Ai for their Deep Learning course on Coursera.
 
 #ImageSegmentation #SemanticSegmentation #UNet #DeepLearning #ComputerVision #MachineLearning #ProgrammingAssignment
